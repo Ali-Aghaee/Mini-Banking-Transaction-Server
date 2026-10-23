@@ -1,0 +1,7 @@
+{
+  "host": "0.0.0.0",
+  "port": 5000,
+  "max_clients": 50,
+  "db_path": "bank_ledger.db",
+  "log_file": "server_transactions.log"
+}
